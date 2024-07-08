@@ -29,14 +29,17 @@ My research interests focus on 3D computer vision and generative AI, including m
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
+  
 **CityGaussian: Real-time High-quality Large-Scale Scene Rendering with Gaussians**
 [[Paper](https://arxiv.org/abs/2404.01133)]
 [[Project](https://dekuliutesla.github.io/citygs/)]
 [[Code](https://github.com/DekuLiuTesla/CityGaussian))]
-Yang Liu, He Guan, Chuanchen Luo, Lue Fan, Junran Peng, Zhaoxiang Zhang
+
+Yang Liu, He Guan, **Chuanchen Luo**, Lue Fan, Junran Peng, Zhaoxiang Zhang
+
 European Conference on Computer Vision (**ECCV**) 2024
 
+</div>
 </div>
 
 # 📄 Pre-Prints 

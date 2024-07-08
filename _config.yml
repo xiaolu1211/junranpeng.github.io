@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : r"Chuanchen Luo\n 罗传琛"
+title                    : "Chuanchen Luo 罗传琛"
 description              : ""
 repository               : "LuckyDC/LuckyDC.github.io"
 google_scholar_stats_use_cdn : true
@@ -24,11 +24,11 @@ author:
   name             : "Chuanchen Luo 罗传琛"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Assistant Professor"
-  location         : "Qingdao, China"
+  location         : "Jinan, China"
   employer         : "Shandong University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=6iZ7VJYAAAAJ&hl"
-  email            : ""
+  email            : "chuanchen.luo@sdu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

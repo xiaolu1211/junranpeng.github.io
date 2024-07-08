@@ -22,8 +22,8 @@ My research interests focus on 3D computer vision and generative AI, including m
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 One paper is accepted by ECCV2024. 
-- *2024.02*: &nbsp;🎉🎉 One paper is accepted by CVPR2024. 
+- *2024.07*: &nbsp; One paper is accepted by ECCV2024. 
+- *2024.02*: &nbsp; One paper is accepted by CVPR2024. 
 
 # 📝 Publications 
 

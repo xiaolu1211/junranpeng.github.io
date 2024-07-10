@@ -47,7 +47,7 @@ European Conference on Computer Vision (**ECCV**) 2024
 [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Liao_HardMo_A_Large-Scale_Hardcase_Dataset_for_Motion_Capture_CVPR_2024_paper.pdf)]
 [[Project](https://ljqnb.github.io/HardMo.github.io/)]
 
-Jiaqi Liao^*^, **Chuanchen Luo^*^**, Yiheng Du, Yuxi Wang, Xucheng Yin, Man Zhang, Zhaoxiang Zhang, Junran Peng
+Jiaqi Liao<sup>*<\sup>, **Chuanchen Luo<sup>*<\sup>**, Yiheng Du, Yuxi Wang, Xucheng Yin, Man Zhang, Zhaoxiang Zhang, Junran Peng
 
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) 2024
 

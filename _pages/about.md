@@ -67,6 +67,51 @@ IEEE/CVF International Conference on Computer Vision (**ICCV**) 2023
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2022</div><img src='images/500x300.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**Learning to Adapt Across Dual Discrepancy for Cross-Domain Person Re-Identification**
+[[Paper]([https://link.springer.com/article/10.1007/s11263-021-01569-2](https://ieeexplore.ieee.org/abstract/document/9756889))]
+[[Code](https://github.com/LuckyDC/generalizing-reid-improved)]
+
+**Chuanchen Luo**, Chunfeng Song, Zhaoxiang Zhang
+
+IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**) 2023
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2022</div><img src='images/500x300.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**From Individual to Whole: Reducing Intra-Class Variance by Feature Aggregation**
+[[Paper](https://link.springer.com/article/10.1007/s11263-021-01569-2)]
+
+Zhaoxiang Zhang, **Chuanchen Luo**, Haiping Wu, Yuntao Chen, Naiyan Wang, Chunfeng Song
+
+International Journal of Computer Vision (**IJCV**) 2022
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2020</div><img src='images/500x300.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**Generalizing Person Re-Identification by Camera-Aware Invariance Learning and Cross-Domain Mixup**
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-030-58555-6_14)]
+[[Code](https://github.com/LuckyDC/generalizing-reid)]
+
+**Chuanchen Luo**, Chunfeng Song, Zhaoxiang Zhang
+
+European Conference on Computer Vision (**ECCV**) 2020
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2019</div><img src='images/500x300.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**Spectral Feature Transformation for Rerson Re-Identification**
+[[Paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Luo_Spectral_Feature_Transformation_for_Person_Re-Identification_ICCV_2019_paper.html)]
+[[Code](https://github.com/LuckyDC/sft-reid)]
+
+**Chuanchen Luo**, Yuntao Chen, Naiyan Wang, Zhaoxiang Zhang
+
+IEEE/CVF International Conference on Computer Vision (**ICCV**) 2019
+
+</div>
+</div>
 
 
 # 📄 Pre-Prints 

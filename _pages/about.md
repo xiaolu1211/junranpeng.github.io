@@ -89,6 +89,8 @@ Zhaoxiang Zhang, **Chuanchen Luo**, Haiping Wu, Yuntao Chen, Naiyan Wang, Chunfe
 
 International Journal of Computer Vision (**IJCV**) 2022
 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2020</div><img src='images/500x300.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
@@ -99,6 +101,9 @@ International Journal of Computer Vision (**IJCV**) 2022
 **Chuanchen Luo**, Chunfeng Song, Zhaoxiang Zhang
 
 European Conference on Computer Vision (**ECCV**) 2020
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2019</div><img src='images/500x300.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 

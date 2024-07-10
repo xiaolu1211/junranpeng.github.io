@@ -69,16 +69,16 @@
     
     @include breakpoint($medium) {
         .paper-box-image{
-            justify-content: left;
+            justify-content: flex-start;
             min-width: 200px;
             max-width: 40%;
             order: 1;
         }
         
         .paper-box-text{
-            justify-content: left;
+            justify-content: flex-start;
             padding-left: 2em;
-            max-width: 80%;
+            max-width: 60%;
             order: 2;
         }
 

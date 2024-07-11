@@ -136,6 +136,7 @@ Yiheng Huang, Hui Yang, **Chuanchen Luo**, Yuxi Wang, Shibiao Xu, Zhaoxiang Zhan
 <div class='paper-box-text' markdown="1"> 
 **MaterialSeg3D: Segmenting Dense Materials from 2D Priors for 3D Assets**
 [[Paper](https://arxiv.org/abs/2404.13923)]
+[[Project](https://materialseg3d.github.io/)]
 
 Zeyu Li, Ruitong Gan, **Chuanchen Luo**, Yuxi Wang, Jiaheng Liu, Ziwei Zhu Man Zhang, Qing Li, Xucheng Yin, Zhaoxiang Zhang, Junran Peng
 

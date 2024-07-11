@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently an Assistant Professor in the School of Artificial Intelligence, Shandong University.
-My research interests focus on 3D computer vision and generative AI, including motion capture & synthesis, 3D reconstruction and neural rendering. I work closely with Prof. [Zhaoxiang Zhang](https://zhaoxiangzhang.net/).
+My research interests focus on 3D computer vision and generative AI, including motion capture & synthesis, 3D reconstruction and neural rendering. 
 
 
 # 🔥 News

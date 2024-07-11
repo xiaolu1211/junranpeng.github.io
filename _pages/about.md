@@ -121,7 +121,7 @@ IEEE/CVF International Conference on Computer Vision (**ICCV**) 2019
 
 # 📄 Pre-Prints 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/stablemofusion.gif' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/stablemofusion.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **StableMoFusion: Towards Robust and Efficient Diffusion-based Motion Generation Framework**
 [[Paper](https://arxiv.org/abs/2405.05691)]

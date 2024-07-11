@@ -67,7 +67,7 @@ IEEE/CVF International Conference on Computer Vision (**ICCV**) 2023
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2022</div><img src='images/reid-pami23.png' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/reid-pami23.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **Learning to Adapt Across Dual Discrepancy for Cross-Domain Person Re-Identification**
 [[Paper]([https://link.springer.com/article/10.1007/s11263-021-01569-2](https://ieeexplore.ieee.org/abstract/document/9756889))]
@@ -80,7 +80,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**) 2023
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2022</div><img src='images/reid-ijcv23.png' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2022</div><img src='images/reid-ijcv22.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **From Individual to Whole: Reducing Intra-Class Variance by Feature Aggregation**
 [[Paper](https://link.springer.com/article/10.1007/s11263-021-01569-2)]

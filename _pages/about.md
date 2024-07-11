@@ -125,6 +125,7 @@ IEEE/CVF International Conference on Computer Vision (**ICCV**) 2019
 <div class='paper-box-text' markdown="1"> 
 **StableMoFusion: Towards Robust and Efficient Diffusion-based Motion Generation Framework**
 [[Paper](https://arxiv.org/abs/2405.05691)]
+[[Code](https://github.com/h-y1heng/StableMoFusion)]
 
 Yiheng Huang, Hui Yang, **Chuanchen Luo**, Yuxi Wang, Shibiao Xu, Zhaoxiang Zhang, Man Zhang, Junran Peng
 

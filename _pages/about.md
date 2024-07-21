@@ -25,7 +25,33 @@ My research interests focus on 3D computer vision and generative AI, including m
 - *2024.07*: &nbsp; One paper is accepted by ECCV2024. 
 - *2024.02*: &nbsp; One paper is accepted by CVPR2024. 
 
-# 📝 Publications 
+# 📝 Selected Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/stablemofusion.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**StableMoFusion: Towards Robust and Efficient Diffusion-based Motion Generation Framework**
+[[Paper](https://arxiv.org/abs/2405.05691)]
+[[Code](https://github.com/h-y1heng/StableMoFusion)]
+
+Yiheng Huang, Hui Yang, **Chuanchen Luo**, Yuxi Wang, Shibiao Xu, Zhaoxiang Zhang, Man Zhang, Junran Peng
+
+ACM International Conference on Multimedia (**ACM MM**) 2024 (**Oral**)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/material.gif' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**MaterialSeg3D: Segmenting Dense Materials from 2D Priors for 3D Assets**
+[[Paper](https://arxiv.org/abs/2404.13923)]
+[[Project](https://materialseg3d.github.io/)]
+
+Zeyu Li, Ruitong Gan, **Chuanchen Luo**, Yuxi Wang, Jiaheng Liu, Ziwei Zhu Man Zhang, Qing Li, Xucheng Yin, Zhaoxiang Zhang, Junran Peng
+
+ACM International Conference on Multimedia (**ECCV**) 2024 (**Oral**)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/citygs.gif' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
@@ -36,7 +62,7 @@ My research interests focus on 3D computer vision and generative AI, including m
 
 Yang Liu, He Guan, **Chuanchen Luo**, Lue Fan, Junran Peng, Zhaoxiang Zhang
 
-European Conference on Computer Vision (**ECCV**) 2024
+European Conference on Computer Vision (**ACM MM**) 2024
 
 </div>
 </div>
@@ -120,29 +146,6 @@ IEEE/CVF International Conference on Computer Vision (**ICCV**) 2019
 
 
 # 📄 Pre-Prints 
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/stablemofusion.png' width="190" height="90"></div></div>
-<div class='paper-box-text' markdown="1"> 
-**StableMoFusion: Towards Robust and Efficient Diffusion-based Motion Generation Framework**
-[[Paper](https://arxiv.org/abs/2405.05691)]
-[[Code](https://github.com/h-y1heng/StableMoFusion)]
-
-Yiheng Huang, Hui Yang, **Chuanchen Luo**, Yuxi Wang, Shibiao Xu, Zhaoxiang Zhang, Man Zhang, Junran Peng
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/material.gif' width="190" height="90"></div></div>
-<div class='paper-box-text' markdown="1"> 
-**MaterialSeg3D: Segmenting Dense Materials from 2D Priors for 3D Assets**
-[[Paper](https://arxiv.org/abs/2404.13923)]
-[[Project](https://materialseg3d.github.io/)]
-
-Zeyu Li, Ruitong Gan, **Chuanchen Luo**, Yuxi Wang, Jiaheng Liu, Ziwei Zhu Man Zhang, Qing Li, Xucheng Yin, Zhaoxiang Zhang, Junran Peng
-
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/scenex.gif' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 

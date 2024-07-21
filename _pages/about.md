@@ -187,7 +187,7 @@ Xu Shi, **Chuanchen Luo**, Junran Peng, Hongwen Zhang, Yunlian Sun
 
 
 # 📖 Educations
-- *2024.08 - (now)*, Assistant Professor in the School of Artificial Intelligence, Shandong University.
+- *2024.08 - (now)*, Assistant Professor in the Inspur School of Artificial Intelligence, Shandong University.
 - *2017.09 - 2023.07*, Ph.D in the Institute of Automation, Chinese Academy of Sciences, under the supervision of Prof. [Zhaoxiang Zhang](https://zhaoxiangzhang.net/). 
 - *2013.09 - 2017.07*, B.E. in the school of Information Science and Engineering, Shandong University. 
 

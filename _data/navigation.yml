@@ -10,7 +10,7 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#-selected publications"
+    url: "/#-selected-publications"
 
   - title: "Pre-Prints"
     url: "/#-pre-prints"

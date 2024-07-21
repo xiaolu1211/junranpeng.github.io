@@ -189,12 +189,12 @@ Xu Shi, **Chuanchen Luo**, Junran Peng, Hongwen Zhang, Yunlian Sun
 
 # 📖 Experiences
 * Assistant Professor in the [Inspur School of Artificial Intelligence](https://ai.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/)  
-  2024.08 ~ (now)
+  Date: 2024.08 ~ (now)
   
 * Ph.D in the [Institute of Automation](http://www.ia.cas.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/)  
-  2017.09 ~ 2023.07  
+  Date: 2017.09 ~ 2023.07  
   Supervisor: Prof. [Zhaoxiang Zhang (张兆翔)](https://zhaoxiangzhang.net/).
   
 * B.E. in the [school of Information Science and Engineering](https://www.ise.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/)  
-  2013.09 ~ 2017.07
+  Date: 2013.09 ~ 2017.07
 

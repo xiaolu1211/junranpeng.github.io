@@ -28,7 +28,7 @@ My research interests focus on 3D computer vision and generative AI, including m
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/stablemofusion.png' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2024</div><img src='images/stablemofusion.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **StableMoFusion: Towards Robust and Efficient Diffusion-based Motion Generation Framework**
 [[Paper](https://arxiv.org/abs/2405.05691)]
@@ -41,7 +41,7 @@ ACM International Conference on Multimedia (**ACM MM**) 2024 **Oral**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/material.gif' width="190" height="90"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2024</div><img src='images/material.gif' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 
 **MaterialSeg3D: Segmenting Dense Materials from 2D Priors for 3D Assets**
 [[Paper](https://arxiv.org/abs/2404.13923)]

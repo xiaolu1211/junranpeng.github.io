@@ -22,8 +22,9 @@ My research interests focus on 3D computer vision and generative AI, including m
 
 
 # 🔥 News
-- *2024.07*: &nbsp; One paper is accepted by ECCV2024. 
-- *2024.02*: &nbsp; One paper is accepted by CVPR2024. 
+- *2024.07*: &nbsp; Two papers accepted by ACM MM2024 as oral representations. 
+- *2024.07*: &nbsp; One paper accepted by ECCV2024. 
+- *2024.02*: &nbsp; One paper accepted by CVPR2024. 
 
 # 📝 Selected Publications 
 
@@ -35,7 +36,7 @@ My research interests focus on 3D computer vision and generative AI, including m
 
 Yiheng Huang, Hui Yang, **Chuanchen Luo**, Yuxi Wang, Shibiao Xu, Zhaoxiang Zhang, Man Zhang, Junran Peng
 
-ACM International Conference on Multimedia (**ACM MM**) 2024 (**Oral**)
+ACM International Conference on Multimedia (**ACM MM**) 2024 **Oral**
 
 </div>
 </div>
@@ -48,7 +49,7 @@ ACM International Conference on Multimedia (**ACM MM**) 2024 (**Oral**)
 
 Zeyu Li, Ruitong Gan, **Chuanchen Luo**, Yuxi Wang, Jiaheng Liu, Ziwei Zhu Man Zhang, Qing Li, Xucheng Yin, Zhaoxiang Zhang, Junran Peng
 
-ACM International Conference on Multimedia (**ECCV**) 2024 (**Oral**)
+ACM International Conference on Multimedia (**ACM MM**) 2024 **Oral**
 
 </div>
 </div>
@@ -62,7 +63,7 @@ ACM International Conference on Multimedia (**ECCV**) 2024 (**Oral**)
 
 Yang Liu, He Guan, **Chuanchen Luo**, Lue Fan, Junran Peng, Zhaoxiang Zhang
 
-European Conference on Computer Vision (**ACM MM**) 2024
+European Conference on Computer Vision (**ECCV**) 2024
 
 </div>
 </div>

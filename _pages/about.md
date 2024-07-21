@@ -21,6 +21,7 @@ redirect_from:
 I am currently an Assistant Professor in the Inspur School of Artificial Intelligence, Shandong University.
 My research interests focus on 3D computer vision and generative AI, including motion capture & synthesis, 3D reconstruction and neural rendering. 
 
+
 # 🔈 JOIN US!
 Please feel free to contact me for possible cooperation if you are interested in our projects or 3D vision research.
 
@@ -28,7 +29,8 @@ Please feel free to contact me for possible cooperation if you are interested in
 # 🔥 News
 - *2024.07*: &nbsp; Two papers accepted by ACM MM2024 as oral representations. 
 - *2024.07*: &nbsp; One paper accepted by ECCV2024. 
-- *2024.02*: &nbsp; One paper accepted by CVPR2024. 
+- *2024.02*: &nbsp; One paper accepted by CVPR2024.
+
 
 # 📝 Selected Publications 
 

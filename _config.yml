@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chuanchen Luo 罗传琛"
+title                    : "Chuanchen Luo"
 description              : ""
 repository               : "LuckyDC/LuckyDC.github.io"
 google_scholar_stats_use_cdn : true

@@ -32,7 +32,7 @@ Please feel free to contact me for possible cooperation if you are interested in
 - *2024.02*: &nbsp; One paper accepted by CVPR2024.
 
 
-# 📝 Selected Publications 
+# 📝 Selected Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2024</div><img src='images/stablemofusion.png' width="190" height="90"></div></div>
 <div class='paper-box-text' markdown="1"> 

@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🎓 About Me
-I am currently an Assistant Professor in the Inspur School of Artificial Intelligence, Shandong University.
+I am currently an Assistant Professor in the [Inspur School of Artificial Intelligence](https://ai.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/).
 My research interests focus on 3D computer vision and generative AI, including motion capture & synthesis, 3D reconstruction and neural rendering. 
 
 
@@ -193,7 +193,7 @@ Xu Shi, **Chuanchen Luo**, Junran Peng, Hongwen Zhang, Yunlian Sun
 
 
 # 📖 Educations
-- *2024.08 - (now)*, Assistant Professor in the Inspur School of Artificial Intelligence, Shandong University.
-- *2017.09 - 2023.07*, Ph.D in the Institute of Automation, Chinese Academy of Sciences, under the supervision of Prof. [Zhaoxiang Zhang](https://zhaoxiangzhang.net/). 
-- *2013.09 - 2017.07*, B.E. in the school of Information Science and Engineering, Shandong University. 
+- *2024.08 - (now)*, Assistant Professor in the [Inspur School of Artificial Intelligence](https://ai.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/).
+- *2017.09 - 2023.07*, Ph.D in the [Institute of Automation](http://www.ia.cas.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/), under the supervision of Prof. [Zhaoxiang Zhang (张兆翔)](https://zhaoxiangzhang.net/). 
+- *2013.09 - 2017.07*, B.E. in the [school of Information Science and Engineering](https://www.ise.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/). 
 

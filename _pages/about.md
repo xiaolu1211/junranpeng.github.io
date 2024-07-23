@@ -53,7 +53,7 @@ ACM International Conference on Multimedia (**ACM MM**) 2024 **Oral**
 [[Paper](https://arxiv.org/abs/2404.13923)]
 [[Project](https://materialseg3d.github.io/)]
 
-Zeyu Li, Ruitong Gan, **Chuanchen Luo**, Yuxi Wang, Jiaheng Liu, Ziwei Zhu Man Zhang, Qing Li, Xucheng Yin, Zhaoxiang Zhang, Junran Peng
+Zeyu Li, Ruitong Gan, **Chuanchen Luo**, Yuxi Wang, Jiaheng Liu, Ziwei Zhu, Man Zhang, Qing Li, Xucheng Yin, Zhaoxiang Zhang, Junran Peng
 
 ACM International Conference on Multimedia (**ACM MM**) 2024 **Oral**
 

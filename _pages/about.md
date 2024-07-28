@@ -22,7 +22,7 @@ I am currently an Assistant Professor in the [School of Artificial Intelligence]
 My research interests focus on 3D computer vision and generative AI, including motion capture & synthesis, 3D reconstruction and neural rendering. 
 
 
-# 🔈 JOIN US
+# 🔈 Join Us
 Please feel free to contact me for possible cooperation if you are interested in our projects or 3D vision research.
 
 

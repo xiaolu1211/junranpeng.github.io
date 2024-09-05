@@ -23,7 +23,7 @@ My research interests focus on 3D computer vision and generative AI, including m
 
 
 # 🔈 Join Us
-Please feel free to contact me for possible cooperation if you are interested in our projects or 3D vision research.
+Please feel free to contact me (chuanchen.luo@sdu.edu.cn) for possible cooperation if you are interested in our projects or 3D vision research.
 
 
 # 🔥 News

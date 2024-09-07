@@ -24,6 +24,7 @@ My research interests focus on 3D computer vision and generative AI, including m
 
 # 🔈 Join Us
 Please feel free to contact me for possible cooperation if you are interested in our projects or 3D vision research.
+
 随时欢迎对三维视觉、生成式人工智能感兴趣的老师/研究生/本科生/实习生通过[邮件](images/email.png)或[微信](images/wechat.jpg)联系合作、交流
 
 

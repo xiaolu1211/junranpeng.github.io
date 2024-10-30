@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Junran Peng \n 彭君然"
   avatar           : "images/portrait.jpg"
-  bio              : "Assistant Professor"
+  bio              : "Associate professor"
   location         : "Beijing, China"
-  employer         : "Shandong University"
+  employer         : "University of Science and Technology Beijing"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=xut8w_MAAAAJ&hl=en"
-  email            : "chuanchen.luo@sdu.edu.cn"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=xut8w_MAAAAJ&hl"
+  email            : "pengjunran@ustb.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

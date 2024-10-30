@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chuanchen Luo"
-description              : ""
-repository               : "LuckyDC/LuckyDC.github.io"
+title                    : "Junran Peng"
+description              : "Junran Peng's blog"
+repository               : "xiaolu1211/junranpeng.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,13 +21,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Chuanchen Luo \n 罗传琛"
+  name             : "Junran Peng \n 彭君然"
   avatar           : "images/portrait.jpg"
   bio              : "Assistant Professor"
-  location         : "Jinan, China"
+  location         : "Beijing, China"
   employer         : "Shandong University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=6iZ7VJYAAAAJ&hl"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=xut8w_MAAAAJ&hl=en"
   email            : "chuanchen.luo@sdu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0002-4360-7035"
+  orcid            : "https://orcid.org/0000-0001-5276-0114"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
